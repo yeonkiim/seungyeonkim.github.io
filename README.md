@@ -118,19 +118,3 @@ I am an Urban Informatics graduate student with 8+ years of experience in intern
   <p><strong>GitHub</strong><br> <a href="https://yeonkiim.github.io/seungyeonkim/">Portfolio Site</a></p>
   <p><strong>LinkedIn</strong><br> <a href="https://www.linkedin.com/in/seungyeon-kim-3419a8122?utm_source=share_via&utm_content=profile&utm_medium=member_ios">Seungyeon Kim</a></p>
 </div>
-<div class="tagline">Data-driven insights for more equitable and resilient cities</div>
-
-<div class="nav-links">
-  <a href="./">Home</a>
-  <a href="projects/city-exploration/">City Exploration</a>
-  <a href="projects/bikeshare-equity/">Bikeshare Equity</a>
-  <a href="projects/homelessness/">Homelessness</a>
-  <a href="projects/climate-gentrification/">Climate Gentrification</a>
-</div>
-
-<div class="quick-tags">
-  <span>Inclusive Urban Planning</span>
-  <span>Urban Data Analysis</span>
-  <span>GIS</span>
-  <span>Mobility & Equity</span>
-</div>
