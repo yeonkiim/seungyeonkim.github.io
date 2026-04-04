@@ -12,7 +12,8 @@ title: Bikeshare Equity Analysis – Boston
 # 🚴 Bikeshare Equity Analysis – Boston
 
 <p align="center">
-<img src="/seungyeonkim/assets/images/Picture2.png" width="100%"></p>
+<img src="/seungyeonkim/assets/images/Picture2.png" width="100%">
+</p>
 
 <p align="center">
   <em>
