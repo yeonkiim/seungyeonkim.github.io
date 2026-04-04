@@ -7,11 +7,11 @@
 <div class="tagline">Data-driven insights for more equitable and resilient cities</div>
 
 <div class="nav-links">
-  <a href="../../">Home</a>
-  <a href="../city-exploration/">City Exploration</a>
-  <a href="../bikeshare-equity/">Bikeshare Equity</a>
-  <a href="../homelessness/">Homelessness</a>
-  <a href="../climate-gentrification/">Climate Gentrification</a>
+  <a href="./">Home</a>
+  <a href="projects/city-exploration/">City Exploration</a>
+  <a href="projects/bikeshare-equity/">Bikeshare Equity</a>
+  <a href="projects/homelessness/">Homelessness</a>
+  <a href="projects/climate-gentrification/">Climate Gentrification</a>
 </div>
 
 <div class="quick-tags">
@@ -63,14 +63,10 @@ and international development projects across Asia, Latin America, and Africa.
 ## Research & Writing
 
 <div class="project-card">
-
-### 🌍 Climate Gentrification: Similar yet Different
-
-- **Focus:** Comparative case study analysis of climate gentrification mechanisms in the Global North and South (New Orleans & Tacloban)  
-- **Key Insight:** Climate gentrification produces similar displacement outcomes, but through fundamentally different mechanisms shaped by market forces and state-led spatial governance  
-
-📄 <a href="projects/climate-gentrification/">View Full Paper</a>
-
+  <h3>🌍 Climate Gentrification: Similar yet Different</h3>
+  <p><strong>Focus:</strong> Comparative case study analysis of climate gentrification mechanisms in the Global North and South (New Orleans &amp; Tacloban)</p>
+  <p><strong>Key Insight:</strong> Climate gentrification produces similar displacement outcomes, but through fundamentally different mechanisms shaped by market forces and state-led spatial governance</p>
+  <p>📄 <a href="projects/climate-gentrification/">View Full Paper →</a></p>
 </div>
 
 
