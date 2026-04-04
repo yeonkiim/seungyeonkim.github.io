@@ -2,6 +2,12 @@
 layout: default
 title: City Exploration – Bike Safety & Infrastructure Risk Analysis
 ---
+<div class="nav-links">
+  <a href="../../">Home</a>
+  <a href="../city-exploration/">City Exploration</a>
+  <a href="../bikeshare-equity/">Bikeshare Equity</a>
+  <a href="../homelessness/">Homelessness</a>
+</div>
 
 # 🚲 City Exploration – Bike Safety & Infrastructure Risk Analysis (Boston)
 
@@ -23,4 +29,3 @@ particularly physical separation in high-risk areas.
 
 ## Files
 - 📄 [Project Report (PDF)](city-exploration.pdf)
-- [Back to Home](../../)
