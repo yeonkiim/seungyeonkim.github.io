@@ -1,3 +1,8 @@
+[Home](./) | 
+[City Exploration](projects/city-exploration/) | 
+[Bikeshare Equity](projects/bikeshare-equity/) | 
+[Homelessness](projects/homelessness/)
+
 # Seungyeon Kim
 
 Inclusive Urban Planning | Urban Data Analysis
