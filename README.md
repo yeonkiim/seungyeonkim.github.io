@@ -59,6 +59,20 @@ and international development projects across Asia, Latin America, and Africa.
 </div>
 
 
+## Research & Writing
+
+<div class="project-card">
+
+### 🌍 Climate Gentrification: Similar yet Different
+
+- **Focus:** Comparative case study analysis of climate gentrification mechanisms in the Global North and South (New Orleans & Tacloban)  
+- **Key Insight:** Climate gentrification produces similar displacement outcomes, but through fundamentally different mechanisms shaped by market forces and state-led spatial governance  
+
+📄 <a href="projects/climate-gentrification/">View Full Paper</a>
+
+</div>
+
+
 ## Contact
 
 <div class="nav-links">
