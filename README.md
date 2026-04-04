@@ -21,9 +21,12 @@ and international development projects across Asia, Latin America, and Africa.
 - **Project Management:** Coordination, reporting, stakeholder engagement  
 - **Languages:** English (Fluent), Spanish (Fluent), Korean (Native)
 
+
 ## Resume
 - [Download PDF](CV.pdf)
 
+
+## Featured Projects
 
 ### 🚲 City Exploration – Bike Safety & Infrastructure Risk Analysis
 Spatial analysis of bicycle crash hotspots near Bluebikes stations in Boston, combining Vision Zero data, GIS mapping, and infrastructure review.  
