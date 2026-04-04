@@ -7,6 +7,7 @@ title: City Exploration – Bike Safety & Infrastructure Risk Analysis
   <a href="../city-exploration/">City Exploration</a>
   <a href="../bikeshare-equity/">Bikeshare Equity</a>
   <a href="../homelessness/">Homelessness</a>
+  <a href="../climate-gentrification/">Climate Gentrification</a>
 </div>
 
 # 🚲 City Exploration – Bike Safety & Infrastructure Risk Analysis (Boston)
