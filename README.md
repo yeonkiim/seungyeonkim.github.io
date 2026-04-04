@@ -62,7 +62,7 @@ and international development projects across Asia, Latin America, and Africa.
 ## Contact
 
 <div class="nav-links">
-  <a href="mailto:ksy32ksy@gmail.com">Email</a>
-  <a href="https://yeonkiim.github.io/seungyeonkim/">GitHub</a>
-  <a href="https://linkedin.com/in/seungyeon-kim-3419a8122?utm_source=share_via&utm_content=profile&utm_medium=member_ios">LinkedIn</a>
+  <a href="mailto:ksy32ksy@gmail.com">✉️ Email</a>
+  <a href="https://yeonkiim.github.io/seungyeonkim/">🐙 GitHub</a>
+  <a href="https://linkedin.com/in/seungyeon-kim-3419a8122?utm_source=share_via&utm_content=profile&utm_medium=member_ios">💼 LinkedIn</a>
 </div>
