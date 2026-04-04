@@ -2,6 +2,14 @@
   <img src="assets/images/Picture1.png" alt="Pedestrian crossing viewed from above - Ryoji Iwata, Unsplash">
 </div>
 
+<div class="nav-links">
+  <a href="../../">Home</a>
+  <a href="../city-exploration/">City Exploration</a>
+  <a href="../bikeshare-equity/">Bikeshare Equity</a>
+  <a href="../homelessness/">Homelessness</a>
+  <a href="../climate-gentrification/">Climate Gentrification</a>
+</div>
+
 # Seungyeon Kim
 
 <div class="landing-hero">
