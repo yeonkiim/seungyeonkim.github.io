@@ -7,6 +7,7 @@ title: Bikeshare Equity Analysis – Boston
   <a href="../city-exploration/">City Exploration</a>
   <a href="../bikeshare-equity/">Bikeshare Equity</a>
   <a href="../homelessness/">Homelessness</a>
+  <a href="../climate-gentrification/">Climate Gentrification</a>
 </div>
 
 # 🚴 Bikeshare Equity Analysis – Boston
