@@ -11,6 +11,27 @@ title: People on the Streets – Homelessness Trends (NY & CA)
 
 # 🏠 People on the Streets – Homelessness Trends (New York & California)
 
+<p align="center">
+  <img src="Picture5.png" width="100%">
+</p>
+
+<p align="center">
+  <em>
+  Homelessness trends in New York and California (2010–2023), illustrating the impact of temporary COVID-19 policies and the subsequent rebound
+  </em>
+</p>
+
+<p align="center">
+  <img src="Picture6.png" width="49%">
+  <img src="Picture7.png" width="49%">
+</p>
+
+<p align="center">
+  <em>
+  Spatial distribution of homelessness in New York (top) and California (bottom), highlighting concentration in high-poverty and high rent-burden areas (Author’s analysis)
+  </em>
+</p>
+
 ## Research Question
 How have homelessness patterns changed in New York and California between 2010 and 2020?
 
