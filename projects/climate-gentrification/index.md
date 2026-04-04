@@ -1,9 +1,22 @@
+---
+layout: default
+title: Climate Gentrification: Similar yet Different
+---
+<div class="nav-links">
+  <a href="../../">Home</a>
+  <a href="../city-exploration/">City Exploration</a>
+  <a href="../bikeshare-equity/">Bikeshare Equity</a>
+  <a href="../homelessness/">Homelessness</a>
+  <a href="../climate-gentrification/">Climate Gentrification</a>
+</div>
+
+
 
 # Climate Gentrification: Similar yet Different
 
 ## Overview
 
-This paper examines how climate gentrification unfolds differently across the Global North and South, using case studies from New Orleans (Hurricane Katrina) and Tacloban City (Typhoon Haiyan).
+This essay examines how climate gentrification unfolds differently across the Global North and South, using case studies from New Orleans (Hurricane Katrina) and Tacloban City (Typhoon Haiyan).
 
 ## Research Question
 
@@ -26,4 +39,4 @@ This distinction fundamentally changes how displacement unfolds and how policy i
 
 ## Full Paper
 
-📄 [Download Full Paper](climate-gentrification.docx)
+📄 [Download Full Paper](climate-gentrification.pdf)
