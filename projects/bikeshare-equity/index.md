@@ -11,16 +11,7 @@ title: Bikeshare Equity Analysis – Boston
 
 # 🚴 Bikeshare Equity Analysis – Boston
 
-<p align="center">
-<img src="Picture2.png" width="100%"></p>
 
-<p align="center">
-  <em>
-  Left: High-risk intersection with shared bike lanes and heavy vehicle interaction (Source: Google Maps)  
-  <br>
-  Right: Spatial distribution of bicycle crash hotspots and nearby infrastructure types (Author’s analysis)
-  </em>
-</p>
 
 ## Research Question
 Is bikeshare equally accessible and affordable across neighborhoods in Boston following the launch of the **SNAP Card to Ride** low-income membership program (2018)?
