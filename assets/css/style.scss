@@ -90,13 +90,13 @@ li {
   border-radius: 999px;
   font-weight: 500;
   text-decoration: none;
-  color: #2f3a45;
+  color: #1f4f57;
   background: #eef6f7;
   transition: all 0.2s ease;
 }
 
 .nav-links a:hover {
-  background: #f4f7f8;
+  background: #e3f0f2;
   border-color: #bfc9d4;
   text-decoration: none;
 }
@@ -146,15 +146,6 @@ li {
   margin: 1.1rem 0 1.35rem 0;
   background: #ffffff;
   transition: all 0.2s ease;
-}
-
-.project-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(0,0,0,0.06);
-  border-color: #d1d5db;
-}
-
-.project-card {
   cursor: pointer;
 }
 
@@ -165,4 +156,19 @@ li {
 .project-card p:last-child,
 .project-card ul:last-child {
   margin-bottom: 0;
+}
+
+
+@media (max-width: 768px) {
+  .main-content {
+    padding: 1.25rem 1rem 3rem 1rem;
+  }
+
+  h1 {
+    font-size: 2.1rem;
+  }
+
+  .tagline {
+    font-size: 1.05rem;
+  }
 }
