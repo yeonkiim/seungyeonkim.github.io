@@ -7,10 +7,11 @@
 <div class="tagline">Data-driven insights for more equitable and resilient cities</div>
 
 <div class="nav-links">
-  <a href="./">Home</a>
-  <a href="projects/city-exploration/">City Exploration</a>
-  <a href="projects/bikeshare-equity/">Bikeshare Equity</a>
-  <a href="projects/homelessness/">Homelessness</a>
+  <a href="../../">Home</a>
+  <a href="../city-exploration/">City Exploration</a>
+  <a href="../bikeshare-equity/">Bikeshare Equity</a>
+  <a href="../homelessness/">Homelessness</a>
+  <a href="../climate-gentrification/">Climate Gentrification</a>
 </div>
 
 <div class="quick-tags">
