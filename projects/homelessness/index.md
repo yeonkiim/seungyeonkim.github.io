@@ -31,9 +31,16 @@ This project examines long-term homelessness trends in two major U.S. regions to
 - Following the expiration of these programs, homelessness rebounded sharply, revealing the fragility of short-term interventions.
 
 ## Policy Implications
-- Temporary relief measures were effective in preventing a deeper crisis but insufficient to address structural housing shortages.
-- Shelter capacity and support services remain inadequate relative to growing demand.
-- Long-term policy responses must focus on affordability, housing supply, and income stability to achieve lasting impact.
+
+- Temporary relief measures were effective in preventing a deeper crisis but insufficient to address structural housing shortages.  
+- Shelter capacity and support services remain inadequate relative to growing demand.  
+- Long-term policy responses must focus on affordability, housing supply, and income stability.  
+
+While temporary measures such as eviction moratoria and emergency rental assistance played a critical role during the pandemic, the sharp resurgence in homelessness following their expiration highlights the limitations of short-term solutions.  
+
+This underscores the need for more sustainable approaches, such as "Housing First," which prioritize permanent housing as the foundation for long-term stability.  
+
+Ultimately, addressing homelessness requires a sustained commitment to structural solutions that ensure stable, affordable housing and long-term support systems.
 
 ## Link
 - 🌍 [StoryMap – People on the Streets](https://nu.hub.arcgis.com/apps/3b6e38f159ca405c9c7df8e759d94560/explore)
