@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Climate Gentrification: Similar yet Different
+title: "Climate Gentrification: Similar yet Different"
 ---
 <div class="nav-links">
   <a href="../../">Home</a>
