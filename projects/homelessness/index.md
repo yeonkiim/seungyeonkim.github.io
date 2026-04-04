@@ -12,7 +12,7 @@ title: People on the Streets – Homelessness Trends (NY & CA)
 # 🏠 People on the Streets – Homelessness Trends (New York & California)
 
 <p align="center">
-  <img src="Picture 5.png" width="100%">
+  <img src="Picture 5.png" width="80%">
 </p>
 
 <p align="center">
