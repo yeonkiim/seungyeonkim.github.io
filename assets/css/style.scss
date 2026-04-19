@@ -218,3 +218,22 @@ html {
     font-size: 1rem;
   }
 }
+.figure-card {
+  max-width: 780px;
+  margin: 1.5rem auto 2rem auto;
+  text-align: center;
+}
+
+.figure-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.figure-caption {
+  font-size: 0.95rem;
+  color: #555;
+  font-style: italic;
+  margin-top: 0.75rem;
+  line-height: 1.5;
+}
