@@ -193,29 +193,28 @@ li {
 html {
   scroll-behavior: smooth;
 }
-.carousel {
-  position: relative;
-  max-width: 100%;
-  margin: 1.5rem 0;
+/* Page header title hierarchy */
+.project-subtitle {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #4b5563; /* muted gray */
+  margin: 0 0 1rem 0;
 }
 
-.carousel-item {
-  display: none;
-  text-align: center;
+.project-main-title {
+  font-size: 2.6rem;
+  line-height: 1.25;
+  font-weight: 500;
+  color: #148f63; /* keep one green */
+  margin: 0 0 2rem 0;
 }
 
-.carousel-item img {
-  width: 100%;
-  border-radius: 8px;
-}
+@media screen and (max-width: 768px) {
+  .project-main-title {
+    font-size: 2rem;
+  }
 
-.carousel-item.active {
-  display: block;
-}
-
-.caption {
-  font-size: 0.9rem;
-  color: #555;
-  margin-top: 0.5rem;
-  font-style: italic;
+  .project-subtitle {
+    font-size: 1rem;
+  }
 }
