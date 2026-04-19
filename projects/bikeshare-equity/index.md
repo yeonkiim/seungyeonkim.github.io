@@ -2,13 +2,6 @@
 layout: default
 title: Bikeshare Equity Analysis – Boston
 ---
-<div class="nav-links">
-  <a href="../../">Home</a>
-  <a href="../city-exploration/">City Exploration</a>
-  <a href="../bikeshare-equity/">Bikeshare Equity</a>
-  <a href="../homelessness/">Homelessness</a>
-  <a href="../climate-gentrification/">Climate Gentrification</a>
-</div>
 
 <p class="project-subtitle">🚴 Bikeshare Equity Analysis – Boston</p>
 
@@ -94,3 +87,19 @@ This short-term analysis provides a valuable foundation for future evaluations a
 ## Files & Links
 - 📄 [Data Analysis Document (PDF)](bikeshare-equity.pdf)
 - 📄 [Summary Document (PDF)](Summary_Seungyeon_Kim.pdf)
+
+---
+
+## Explore More Projects
+
+<div class="project-nav">
+
+  <a href="../../">🏠 Home</a>
+  <a href="../../#projects">📂 All Projects</a>
+
+  <a href="../city-exploration/">← City Exploration</a>
+  <a href="../bikeshare-equity/">Bikeshare Equity</a>
+  <a href="../homelessness/">Homelessness</a>
+  <a href="../climate-gentrification/">Climate Gentrification →</a>
+
+</div>
