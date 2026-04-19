@@ -2,13 +2,6 @@
 layout: default
 title: People on the Streets – Homelessness Trends (NY & CA)
 ---
-<div class="nav-links">
-  <a href="../../">Home</a>
-  <a href="../city-exploration/">City Exploration</a>
-  <a href="../bikeshare-equity/">Bikeshare Equity</a>
-  <a href="../homelessness/">Homelessness</a>
-  <a href="../climate-gentrification/">Climate Gentrification</a>
-</div>
 
 <p class="project-subtitle">🏠 People on the Streets – Homelessness Trends</p>
 
@@ -86,3 +79,18 @@ By investing in long-term, inclusive solutions, we can build stronger, more resi
 
 ## Link
 - 🌍 [StoryMap – People on the Streets](https://nu.hub.arcgis.com/apps/3b6e38f159ca405c9c7df8e759d94560/explore)
+
+---
+
+## Explore More Projects
+
+<div class="project-nav">
+
+  <a href="../../">🏠 Home</a>
+  <a href="../../#projects">📂 All Projects</a>
+
+  <a href="../city-exploration/">City Exploration</a>
+  <a href="../bikeshare-equity/">Bikeshare Equity</a>
+  <a href="../climate-gentrification/">Climate Gentrification</a>
+
+</div>
