@@ -74,7 +74,7 @@ Temporary measures such as eviction moratoria and emergency rental assistance pl
 
 As the housing market continues to evolve rapidly, the capacity of temporary shelters and support services remains insufficient to meet growing needs.
 
-In response, greater emphasis should be placed on pursuing more sustainable models, such as **Housing First**, which prioritizes providing permanent housing as the foundation for long-term stability and recovery.
+In response, greater emphasis should be placed on pursuing more sustainable models, such as Housing First, which prioritizes providing permanent housing as the foundation for long-term stability and recovery.
 
 Other policy approaches that address the deeper, structural causes of homelessness must also be considered to achieve lasting impact.
 
