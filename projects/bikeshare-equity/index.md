@@ -41,8 +41,6 @@ This teaching case explores the demographic and socioeconomic characteristics of
 
 ## Key Findings
 
-### Visualization
-
 <div class="carousel">
 
   <div class="carousel-item active">
