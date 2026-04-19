@@ -2,14 +2,6 @@
 layout: default
 title: "Climate Gentrification: Similar yet Different"
 ---
-<div class="nav-links">
-  <a href="../../">Home</a>
-  <a href="../city-exploration/">City Exploration</a>
-  <a href="../bikeshare-equity/">Bikeshare Equity</a>
-  <a href="../homelessness/">Homelessness</a>
-  <a href="../climate-gentrification/">Climate Gentrification</a>
-</div>
-
 
 <p class="project-subtitle">🌍 Climate Gentrification</p>
 
@@ -76,3 +68,18 @@ Future research could expand this comparative framework to include more granular
 ## Files & Links
 
 - [Download Full Paper](climate-gentrification.pdf)
+
+---
+
+## Explore More Projects
+
+<div class="project-nav">
+
+  <a href="../../">🏠 Home</a>
+  <a href="../../#projects">📂 All Projects</a>
+
+  <a href="../city-exploration/">City Exploration</a>
+  <a href="../bikeshare-equity/">Bikeshare Equity</a>
+  <a href="../homelessness/">Homelessness</a>
+
+</div>
