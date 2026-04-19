@@ -42,6 +42,13 @@ The analysis integrates traffic safety data with bikeshare station locations to 
 
 ## Key Findings
 
+<div class="figure-card">
+  <img src="Picture2.png" alt="High-risk intersection near Bluebike station with shared lane and heavy vehicle interaction">
+  <p class="figure-caption">
+    Example of a high-risk Bluebike station location, showing shared bike lanes and proximity to major vehicle traffic (Author’s observation via Google Maps)
+  </p>
+</div>
+
 Bicycle-related injuries declined from 502 in 2015 to 366 in 2024, indicating overall improvements in cyclist safety.
 
 High-risk bikeshare stations are consistently located near major traffic corridors where protective infrastructure is limited.
