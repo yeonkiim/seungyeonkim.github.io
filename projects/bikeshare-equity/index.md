@@ -12,13 +12,9 @@ title: Bikeshare Equity Analysis – Boston
 
 <p class="project-subtitle">🚴 Bikeshare Equity Analysis – Boston</p>
 
-<h1 class="project-main-title">Is Bikeshare Really Equally Accessible and Affordable to Everyone in Boston?</h1>
-
-## Key Takeaways
-
-- **Income-based disparities in bikeshare access and usage persisted despite overall growth**
-- Infrastructure expansion (250+ new stations) played a major role in increasing usage
-- Affordability programs alone may not be sufficient to ensure equitable access
+<h1 class="project-main-title">
+Is Bikeshare Really Equally Accessible and Affordable to Everyone in Boston?
+</h1>
 
 ---
 
@@ -71,13 +67,15 @@ The absolute number of bikeshare users in low-income census tracts increased sig
 
 Infrastructure expansion also played a critical role during the same period. The addition of over 250 new stations between 2015 and 2019 likely contributed to improved access across neighborhoods, particularly in areas that were previously underserved.
 
-However, **income-based disparities in access and usage persisted**, highlighting the continued need to address structural barriers.
+However, **income-based disparities in bikeshare access and usage persisted despite overall growth**, highlighting the continued need to address structural barriers.
 
 Although stronger statistical associations between low-income status and bikeshare usage were expected, the findings reflect the short-term and exploratory nature of this analysis.
 
 ---
 
 ## Policy Implications
+
+This analysis suggests that affordability-focused policies alone are not sufficient to ensure equitable bikeshare access.
 
 While this analysis was initially motivated by the City of Boston’s launch of a discounted bikeshare membership in 2018, the results offer only indirect evidence of its impact.
 
@@ -90,6 +88,8 @@ This suggests that physical proximity and network density may be as influential 
 Nevertheless, the data clearly reflect a city-wide effort to expand bikeshare availability and reduce financial barriers to entry.
 
 This short-term analysis provides a valuable foundation for future evaluations aimed at understanding the long-term effectiveness and equity outcomes of bikeshare initiatives in Boston and beyond.
+
+---
 
 ## Files & Links
 - 📄 [Data Analysis Document (PDF)](bikeshare-equity.pdf)
