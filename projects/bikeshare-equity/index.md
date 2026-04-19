@@ -34,8 +34,16 @@ This teaching case explores the demographic and socioeconomic characteristics of
 
 ## Data & Methods
 
-- R (regression)
-- GIS
+The analysis draws on multiple datasets to examine changes in bikeshare access before and after the implementation of Boston’s low-income membership program.
+
+- **Data sources:**  
+  Bluebike trip data (2015, 2019), American Community Survey (ACS), and the Housing + Transportation (H+T) Index  
+
+- **Approach:**  
+  Census tract-level analysis of station distribution and bikeshare usage by income quantile  
+
+- **Methods:**  
+  Regression analysis (R) and GIS spatial analysis  
 
 ---
 
