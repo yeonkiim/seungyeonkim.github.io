@@ -41,25 +41,27 @@ This teaching case explores the demographic and socioeconomic characteristics of
 
 ## Key Findings
 
-<p align="center">
-  <img src="Picture3.png" width="100%">
-</p>
+### Visualization
 
-<p align="center">
-  <em>
-  Comparison of median income, station count, and bike usage across Boston census tracts in 2015 and 2019 (Author’s analysis)
-  </em>
-</p>
+<div class="carousel">
 
-<p align="center">
-  <img src="Picture4.png" width="60%">
-</p>
+  <div class="carousel-item active">
+    <img src="Picture3.png" alt="Map comparison">
+    <p class="caption">
+      Comparison of median income, station count, and bike usage across Boston census tracts in 2015 and 2019 (Author’s analysis)
+    </p>
+  </div>
 
-<p align="center">
-  <em>
-  Bike usage and station distribution by income quantile in 2019, showing increased access but persistent disparities in usage (Author’s analysis)
-  </em>
-</p>
+  <div class="carousel-item">
+    <img src="Picture4.png" alt="Bar chart">
+    <p class="caption">
+      Bike usage and station distribution by income quantile in 2019, showing increased access but persistent disparities (Author’s analysis)
+    </p>
+  </div>
+
+</div>
+
+---
 
 The absolute number of bikeshare users in low-income census tracts increased significantly during this period.
 
